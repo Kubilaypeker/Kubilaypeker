@@ -2,7 +2,7 @@
 - 🔭 I’m currently working on mobile application development
 - 🌱 I’m currently learning data structures and algorithms
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kubilaypeker&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> <img height="180em" width="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kubilaypeker" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kubilaypeker&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kubilaypeker" />
 <!--
 **Kubilaypeker/Kubilaypeker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
