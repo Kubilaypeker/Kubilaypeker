@@ -2,7 +2,10 @@
 - 🔭 I’m currently working on mobile application development
 - 🌱 I’m currently learning data structures and algorithms
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kubilaypeker&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kubilaypeker" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kubilaypeker&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kubilaypeker" />
+
+### Languages and Tools:
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" /> <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" /> <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
 <!--
 **Kubilaypeker/Kubilaypeker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
