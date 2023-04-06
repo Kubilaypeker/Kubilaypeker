@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🔭 I’m currently working on mobile application development
 - 🌱 I’m currently learning backend technologies
-- I'm looking for a entry level job to lift up my coding skills.
+- I'm looking for an entry level job to lift up my coding skills.
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kubilaypeker&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kubilaypeker" />
 
